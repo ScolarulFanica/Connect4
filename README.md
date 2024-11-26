@@ -16,7 +16,9 @@ Alternate turns to outsmart your opponent!
 
 - Encapsulated game entities ensure clean, scalable code.
 - Repository-based structure simplifies data management for game pieces.
+  
 📂 Project Structure 📂
+
 entities.py
 🧱 Contains the Piece class, which represents each game piece with its position, player, and ID.
 
