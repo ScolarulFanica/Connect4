@@ -1,4 +1,4 @@
-🎮 Connect4 Game Implementation in Python 🎲
+#🎮 Connect4 Game Implementation in Python 🎲
 
 Welcome to Connect4, a Python-based reimagining of the classic 4-in-a-row strategy game!
 Challenge your friends 👫, drop pieces 🟡🔴, and connect them to win 🏆.
