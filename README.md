@@ -49,11 +49,17 @@ python3 uiplayer.py
 Follow the instructions to:
 
 🛠️ Set the board size.
+
 🎭 Choose your piece (❌ or ⭕).
+
 🎲 Take turns selecting a column and watch your pieces drop!
+
 🛠️ Future Enhancements 🛠️
+
 🔍 Add win detection for horizontal, vertical, or diagonal connections (coming soon!).
+
 🎨 Introduce a graphical user interface (GUI) for a modernized look.
+
 🤖 Implement AI for single-player mode and more challenging gameplay.
 
 🎉 Enjoy the game and may the best strategist win! 🏆
